@@ -1,0 +1,7 @@
+id;strasse;hausnummer;postleitzahl;stadt;packstation_id
+1;Kriegsstraße;23;76133;Karlsruhe;1
+30;Kaiserstraße;12;76131;Karlsruhe;2
+40;Moltkestraße;56;76133;Karlsruhe;3
+50;Kaiser-Josef-Straße;34;79098;Freiburg;4
+60;Schnewelinstraße;12;79115;Freiburg;5
+70;Blumenstraße;7;68199;Mannheim;6
